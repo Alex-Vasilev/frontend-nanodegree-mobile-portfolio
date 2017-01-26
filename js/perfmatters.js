@@ -10,6 +10,6 @@ function logCRP() {
   console.log( stats.textContent)
 }
 
-window.addEventListener("load", function(event) {
-  logCRP();
-});
+// window.addEventListener("load", function(event) {
+//   logCRP();
+// });
